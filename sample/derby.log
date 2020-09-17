@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Mar 03 14:02:01 JST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0170-9ec5-b128-000012577b70 
+on database directory /Users/nguyen.son/git/ngocson2vn/NeuralNetworks/rnn/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@3010a049 
+Loaded from file:/Users/nguyen.son/local/spark-2.4.5-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_241-b07
+user.dir=/Users/nguyen.son/git/ngocson2vn/NeuralNetworks/rnn
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
